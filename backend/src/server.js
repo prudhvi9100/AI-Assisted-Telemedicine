@@ -33,7 +33,11 @@ app.use(helmet());
 
 // Enable CORS
 app.use(cors({
-    origin: 'http://localhost:3000',
+    origin: [
+        'http://localhost:3000',
+        'https://ai-assisted-telemedicine.vercel.app',
+        'https://ai-assisted-telemedicine-9bzs.vercel.app' // Optional: Preview URL
+    ],
     credentials: true
 }));
 
