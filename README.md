@@ -1,5 +1,7 @@
 # AI-Assisted Telemedicine Platform 🏥🤖
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://ai-assisted-telemedicine.vercel.app)
+
 A futuristic telemedicine platform connecting Patients and Doctors with secure video consultations, AI-powered symptom analysis, and digital medical record management.
 
 ## 🌟 Features
